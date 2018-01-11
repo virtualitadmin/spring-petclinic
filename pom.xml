@@ -119,6 +119,7 @@
          <configuration>
             <source>1.8</source>
             <target>1.8</target>
+              </configuration>
         <executions>
           <execution>
             <!-- Spring Boot Actuator displays build-related information
